@@ -6,7 +6,7 @@ Proyecto realizado por los alumnos de la cohorte 2023 de la carrera "Desarrollo 
 
 ## Descripción del Proyecto
 
-Travel Dreams es una aplicación web y móvil diseñada para la compra de paquetes turísticos.
+Travel Dreams es un proyecto integral de eCommerce dedicado a la venta de destinos turísticos, que abarca tanto una página web como una aplicación móvil nativa para Android.
 Permite a los usuarios explorar destinos nacionales e internacionales, consultar información detallada de cada lugar y adquirir paquetes adaptados a sus preferencias mediante métodos de pago seguros.  
 
 ## Objetivo del Proyecto
