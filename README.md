@@ -2,7 +2,7 @@
 
 # Práctica Profesionalizante - TSDWAD - 2023
 
-Proyecto realizado por los alumnos de la cohorte 2023 de la carrera "Desarrollo Web y Aplicaciones Digitales" para la asignatura "Practica Profesionalizante" del año lectivo 2025.  
+Proyecto realizado por los alumnos de la cohorte 2023 de la carrera "Desarrollo Web y Aplicaciones Digitales" para la asignatura "Práctica Profesionalizante" del año lectivo 2025.  
 
 ## Descripción del Proyecto
 
