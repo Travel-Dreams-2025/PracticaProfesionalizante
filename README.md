@@ -1,4 +1,4 @@
-![ISPC_Logos 2024](https://github.com/user-attachments/assets/91b753b3-34c1-468e-bb95-ca7f5c169ec9)
+![ISPC_Logos 2024](https://github.com/ccrrff2014/Img/blob/e7047fbceb335f5279f312eec84f876d843c0e3f/Readme/01%20Membrete%20ISPC.png)
 
 # Práctica Profesionalizante - TSDWAD - 2023
 
@@ -15,10 +15,10 @@ Ofrecer una experiencia de compra fácil, intuitiva y segura para viajes turíst
 Travel Dreams busca facilitar la planificación de vacaciones, brindando acceso a una amplia variedad de destinos desde cualquier dispositivo, permitiendo a los usuarios descubrir, seleccionar y disfrutar del mundo con total comodidad y confianza.  
 
 ## Travel Dreams: Aplicación Web SPA
-![travel_dreams_front](https://github.com/TravelDreams2024/ISPC2024/assets/45200064/ad03b552-ba52-49b8-9bb9-36955ba119d6)
+![travel_dreams_front](https://github.com/ccrrff2014/Img/blob/e59c1f1bf5806f061d7d78b2ece1127e54563cad/Readme/02a%20App%20Web.png)
 
 ## Travel Dreams: Aplicación Móvil
-![361185315-9772f5b2-5111-4ee0-865b-09a8a3435352](https://github.com/user-attachments/assets/04eeb19b-0a8a-4ebf-9f4b-1706edf9ad1c)
+![361185315-9772f5b2-5111-4ee0-865b-09a8a3435352](https://github.com/ccrrff2014/Img/blob/e7047fbceb335f5279f312eec84f876d843c0e3f/Readme/03%20App%20Movil.png)
 
 ## Integrantes:
 
